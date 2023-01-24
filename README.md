@@ -15,7 +15,7 @@ Instructions to Make Pico USB Rubber Ducky:
  - WARNING! you have to be careful since the raspberry Pi Pico will run the ducky script as soon as it is copied so you must unplug it immediately.
  - Now your Raspberry Pi Pico is successfully converted to a BAD USB Device.
 
-Insrructions for Resetting Raspberry Pi Pico:
+Instructions for Resetting Raspberry Pi Pico:
 
  - If you want to change the rubber ducky script that is on the Raspberry Pi Pico or just want to reset the Raspberry Pi Pico to its original state.
  - Connect the Raspberry Pi Pico to the PC while holding down the "BOOTSEL" button. It will connect the Raspberry Pi Pico in the same state as it was the first time we connected the Raspberry Pi Pico.
